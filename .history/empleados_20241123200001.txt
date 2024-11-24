@@ -1,0 +1,10 @@
+Juan;Programador;20
+Maria;Diseñador;25
+Carlos;Analista;18
+Ana;Desarrollado;22
+Pedro;Programador;21
+Laura;Diseñadora;24
+Javier;Tester;19
+Marta;Programadora;23
+Luis;Desarrollador;26
+Sara;Analista;17

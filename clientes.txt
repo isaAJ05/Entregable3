@@ -1,0 +1,10 @@
+Cliente1;Programador;100
+Cliente2;Diseñador;50
+Cliente3;Analista;75
+Cliente4;Programador;80
+Cliente5;Desarrollador;90
+Cliente6;Tester;60
+Cliente7;Analista;70
+Cliente8;Programador;95
+Cliente9;Diseñador;65
+Cliente10;Desarrollador;110
