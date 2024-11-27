@@ -1,5 +1,0 @@
-Cliente1;Programador;100
-Cliente2;Diseñador;50
-Cliente3;Analista;30
-Cliente4;Programador;10
-Cliente5;Diseñador;25

@@ -1,0 +1,5 @@
+Juan;Programador;20
+Ana;Programador;22
+Carlos;DiseÃ±ador;25
+Diana;Diseñador;25
+Eduardo;Marketing;30

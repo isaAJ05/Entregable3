@@ -1,0 +1,3 @@
+Cliente10;Desarrollador;45
+Cliente11;Desarrollador;42
+Cliente12;Desarrollador;40

@@ -1,0 +1,4 @@
+Cliente6;Analista;50
+Cliente7;Analista;45
+Cliente8;Consultor;60
+Cliente9;Consultor;55

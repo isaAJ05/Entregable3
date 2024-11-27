@@ -1,5 +1,0 @@
-Juan;Programador;20
-Maria;Diseñador;25
-Pedro;Analista;30
-Ana;Programador;15
-Luis;Diseñador;20
